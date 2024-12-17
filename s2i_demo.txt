@@ -1,0 +1,8 @@
+<html>
+ <head>
+ <title>S2i demo testing</title>
+ </head>
+ <body>
+ <?php echo '<p> this is source code </p>'; ?>
+ </body>
+</html>
